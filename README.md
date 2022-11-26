@@ -4,6 +4,8 @@ In this challenge, I refactored the code with the 'scout rule' in mind. I starte
 
 The stylesheet had unecessary classes so I condensed some (specifically in the benefits section) to make it more compact without affecting the final code. 
 
+Changed h2 to h4 in the footer for sequential order.
+
 Notes are added throughout the html and stylesheet to reflect certain changes.
 ## Technology
 HTML and CSS
